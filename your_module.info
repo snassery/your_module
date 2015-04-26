@@ -1,0 +1,5 @@
+name = "your module"
+description = "module"
+core = 7.x
+dependencies[] = block
+version = 7.x-1.0
